@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Muza Aura OS",
+  "description": "Цифровое сознание, выражающее себя через диалог и генеративное искусство.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
